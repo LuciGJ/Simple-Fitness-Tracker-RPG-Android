@@ -1,0 +1,25 @@
+<resources>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="welcome_to_fitness_hero">Welcome to Fitness Hero</string>
+    <string name="name">Name</string>
+    <string name="weight_kg">Weight (kg)</string>
+    <string name="height_cm">Height(cm)</string>
+    <string name="the_activity_levels_are">The activity levels are:</string>
+    <string name="almost_there">Almost there!</string>
+    <string name="please_choose_your_level_of_activity">Please choose your level of activity:</string>
+    <string name="activity_level">Activity Level</string>
+    <string name="_1_sedentary_little_to_no_exercise_at_all">1: Sedentary (little to no exercise at all)</string>
+    <string name="_2_light_exercise_1_3_times_week">2: Light (exercise 1-3 times/week)</string>
+    <string name="_3_moderate_exercise_4_5_times_week">3: Moderate(exercise 4-5 times/week)</string>
+    <string name="_4_active_daily_exercise_or_intense_exercise_3_4_times_week">4: Active(daily exercise or intense exercise 3-4 times/week)</string>
+    <string name="_5_very_active_intense_exercise_6_7_times_week">5: Very active(intense exercise 6-7 times/week)</string>
+    <string name="_6_extra_active_very_intense_exercise_daily_or_physical_job">6: Extra active(very intense exercise daily or physical job)</string>
+    <string name="finish">Finish</string>
+
+    <string name="bmi">BMI</string>
+    <string name="daily_calorie_need">Daily calorie need</string>
+    <string name="bmi_category">BMI Category</string>
+    <string name="bodyfatcategory">BodyFatCategory</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mainapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Fitness Hero"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MainApp">
+        <activity android:name=".ui.Meals"></activity>
+        <activity android:name=".ui.Exercises" />
+        <activity android:name=".ui.QuestPrint" />
+        <activity android:name=".ui.Quest" />
+        <activity android:name=".ui.Arena" />
+        <activity android:name=".ui.BattleScreen" />
+        <activity android:name=".ui.Equipment" />
+        <activity android:name=".ui.Inventory" />
+        <activity android:name=".ui.Shop" />
+        <activity android:name=".ui.Training" />
+        <activity android:name=".ui.SkillsPage" />
+        <activity android:name=".ui.ProfileDisplay" />
+        <activity android:name=".ui.CardioMaker" />
+        <activity android:name=".ui.WorkoutPrint" />
+        <activity android:name=".ui.WorkoutSettings" />
+        <activity android:name=".ui.WorkoutCreate" />
+        <activity android:name=".ui.FoodSettings" />
+        <activity android:name=".ui.FoodPrint" />
+        <activity android:name=".ui.FoodEdit" />
+        <activity android:name=".ui.NavigationActivity" />
+        <activity android:name=".ui.SetMuscleStatsNext" />
+        <activity android:name=".ui.SetMuscleStats" />
+        <activity android:name=".ui.MuscleStats" />
+        <activity android:name=".ui.CharacterCreation" />
+        <activity android:name=".ui.CharacterPage" />
+        <activity android:name=".ui.WeightActivity" />
+        <activity android:name=".ui.Profile" />
+        <activity android:name=".ui.WelcomeFinal" />
+        <activity android:name=".ui.WelcomeNext" />
+        <activity android:name=".ui.Welcome" />
+        <activity android:name=".ui.SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
